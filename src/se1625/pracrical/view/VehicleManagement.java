@@ -5,16 +5,6 @@ import se1625.pracrical.utils.Utils;
 import se1625.pracrical.model.Vehicle;
 import se1625.pracrical.controllers.VehicleCollection;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
-* This is comment, do not delete 2021.12.31
- * and open the template in the editor.
- */
-/**
- *
- * @author Hoa Doan
- */
 public class VehicleManagement {
 
     public static void main(String args[]) {
