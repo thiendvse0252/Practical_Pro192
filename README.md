@@ -1,9 +1,9 @@
-<style>
+
 	@keyframes example {
   from {background-color: grey;}
   to {background-color: yellow;}
 }
-</style>
+
 
 <h2 style="width: 260px;
   height: 40px;
