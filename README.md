@@ -1,6 +1,4 @@
-
-<!DOCTYPE html>
-<html>
+```html
 <head>
 <style> 
 h2 {
@@ -24,6 +22,6 @@ h2 {
 <p><b>Note:</b> Java Vehicle Management Project Using standard MVC model.</p>
 
 </body>
-</html>
+```
 
 
