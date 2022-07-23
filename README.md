@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <head>
 <style>
 	@keyframes example {
@@ -19,8 +18,6 @@
 
 <p><b>Note:</b> Java Vehicle Management Project Using standard MVC model.</p>
 
-</body>
-</html>
 
 
 
