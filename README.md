@@ -1,5 +1,3 @@
-```html
-
 <head>
 <style>
 	@keyframes example {
@@ -21,7 +19,7 @@
 
 </body>
 
-```
+
 
 
 
